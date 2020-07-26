@@ -1,0 +1,9 @@
+form {
+    margin: 2rem 0;
+}
+
+@media (max-width: 575.98px) {
+    form input[type='text'] {
+        width: 100%;
+    }
+}
