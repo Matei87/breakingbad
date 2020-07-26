@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/breakingbad/static/css/main.b9c6e579.chunk.css",
+    "main.js": "/breakingbad/static/js/main.cd5b0aab.chunk.js",
+    "main.js.map": "/breakingbad/static/js/main.cd5b0aab.chunk.js.map",
+    "runtime-main.js": "/breakingbad/static/js/runtime-main.fc7df85d.js",
+    "runtime-main.js.map": "/breakingbad/static/js/runtime-main.fc7df85d.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/breakingbad/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.def6d669.chunk.js": "/breakingbad/static/js/2.def6d669.chunk.js",
+    "static/js/2.def6d669.chunk.js.map": "/breakingbad/static/js/2.def6d669.chunk.js.map",
+    "index.html": "/breakingbad/index.html",
+    "precache-manifest.25b9022de5d0bf60edecfe901df2b2c2.js": "/breakingbad/precache-manifest.25b9022de5d0bf60edecfe901df2b2c2.js",
+    "service-worker.js": "/breakingbad/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/breakingbad/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.b9c6e579.chunk.css.map": "/breakingbad/static/css/main.b9c6e579.chunk.css.map",
+    "static/js/2.def6d669.chunk.js.LICENSE.txt": "/breakingbad/static/js/2.def6d669.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/breakingbad/static/media/logo.3795f66d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc7df85d.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.def6d669.chunk.js",
+    "static/css/main.b9c6e579.chunk.css",
+    "static/js/main.cd5b0aab.chunk.js"
+  ]
+}
